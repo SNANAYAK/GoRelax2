@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Go Relax</string>
-    <string name="P1">1</string>
+    <string name="P1">Anxiety</string>
+    <string name="P2">Insomnia</string>
+    <string name="P3">Nervous</string>
+    <string name="P4">Sleepy</string>
     <string name="Play_button">Play</string>
 </resources>
